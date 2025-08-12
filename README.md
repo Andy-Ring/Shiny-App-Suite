@@ -46,12 +46,6 @@ This repository provides the **all-in-one version** for convenience.
 
 ---
 
-## Example Screenshots
-| RNA-Seq Volcano Plot | Dose–Response Curve | Growth Curve Plot | Immunoblot Analysis |
-|----------------------|--------------------|-------------------|---------------------|
-| ![Volcano](images/volcano_example.png) | ![Dose](images/dose_example.png) | ![Growth](images/growth_example.png) | ![Immunoblot](images/immunoblot_example.png) |
-
----
 
 ## Data Privacy
 All computations run **locally** on your machine.  
